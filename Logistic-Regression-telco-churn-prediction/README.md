@@ -40,6 +40,7 @@ The model is evaluated using various metrics such as:
 ## Google Colab
 
 If you prefer to run the project in the cloud, you can execute it on Google Colab. Simply click the link below to open the notebook and run it:
+
 [Telco Churn Prediction using Logistic Regression on Google Colab]([https://colab.research.google.com/drive/1t4vF09UVlPeLbSPV8fn99IJ0fcMpUVJ8?usp=sharing](https://colab.research.google.com/drive/1rc7OgVDg_P6S4nIdAv7qGC7xuRSl5Sbk?usp=sharing))
 
 ## Contributing
