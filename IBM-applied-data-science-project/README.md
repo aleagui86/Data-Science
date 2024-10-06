@@ -22,6 +22,10 @@ This repository contains the code and documentation for analyzing SpaceX launch 
 6. **First Stage Landing Prediction**
    - Description: Using machine learning techniques, we develop a model to predict the likelihood of successful first stage landings for SpaceX rocket launches based on various factors such as weather conditions, payload mass, and launch location.
 
-## Instructions
+## Contributing
 
-Detailed instructions for running each stage of the project can be found in the respective directories. Please refer to the README files within each stage directory for setup instructions, dependencies, and execution guidelines.
+Contributions, issues, and feature requests are welcome. Feel free to check the issues page.
+
+## Credits
+
+This project was developed as part of the IBM Machine Learning course on Coursera.
