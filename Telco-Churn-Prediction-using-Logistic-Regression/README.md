@@ -73,3 +73,11 @@ For those who prefer to run the project in the cloud, you can execute it on Goog
 ## Future Work
 
 Future work could involve testing additional machine learning algorithms, exploring feature engineering techniques, or employing ensemble methods to further improve predictive accuracy.
+
+## Contributing
+
+Contributions, issues, and feature requests are welcome. Feel free to check the issues page.
+
+## Credits
+
+This project was developed as part of the IBM Machine Learning course on Coursera.
